@@ -1,0 +1,32 @@
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-family: 'Architects Daughter', cursive;
+}
+.button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    
+}
+.button:hover {
+    opacity: 0.8;
+}
+img{
+ display: block;
+ margin: 0 auto;
+ width: 480px;
+ height: 450px;
+}
+html{
+    font-family: 'Architects Daughter', cursive;
+    background-color: rgb(105, 248, 48);
+}
